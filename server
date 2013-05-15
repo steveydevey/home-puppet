@@ -1,0 +1,19 @@
+puppet
+puppetmaster
+zsh
+ssh
+htop
+sabnzbd 	-> with config
+headphones	-> with config
+couchpotato	-> with config
+sickbeard	-> with config
+subsonic	-> with config?
+maraschino	-> with config?
+transmission
+samba		-> and exports
+nfs		-> and exports
+iptables	-> and config
+bind
+fail2ban
+nginx?
+apache?

@@ -1,0 +1,31 @@
+{
+  "name": "puppet-googlechrome",
+  "version": "0.1.0",
+  "source": "https://github.com/smarchive/puppet-googlechrome",
+  "author": "Jochen Schalanda",
+  "license": "Apache 2.0",
+  "summary": "Puppet module for installing Google Chrome from the official repositories",
+  "description": "This module installs Google Chrome from the official Google repository. Check README.md for details.",
+  "project_page": "https://github.com/smarchive/puppet-googlechrome",
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "checksums": {
+    "Gemfile": "b9cc73f1051890bdf7287d577e7a5278",
+    "LICENSE-2.0.txt": "3b83ef96387f14655fc854ddc3c6bd57",
+    "Modulefile": "5e9ac7f7eec29af8fd6925b88a21c023",
+    "README.md": "389265b254bec7c6348f0eb26fd3b69c",
+    "Rakefile": "cd90e68050b0afee6aa8ed238eee4ef6",
+    "manifests/init.pp": "dfe28a02d6f7388ccce04d47e6e892b5",
+    "manifests/params.pp": "aee014b5280e923d0264197e41679fdf",
+    "manifests/repo/debian.pp": "cb54840729e5c6628d17078a2ce7dbef",
+    "manifests/repo/redhat.pp": "ea2c475ca2993cbadc6332ebd19e721f",
+    "manifests/repo.pp": "a32809b78b3530447b1a865b395cc2a3",
+    "spec/fixtures/manifests/init.pp": "d41d8cd98f00b204e9800998ecf8427e",
+    "spec/spec_helper.rb": "3011a30b013ba2e44f7bf8615fdf2b8a",
+    "tests/init.pp": "63279014edec7206704fbd17af76ae2e"
+  }
+}
